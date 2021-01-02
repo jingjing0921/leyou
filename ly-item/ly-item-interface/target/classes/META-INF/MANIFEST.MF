@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ly-item-interface
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: zhang
+Implementation-Vendor-Id: com.leyou.service
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://spring.io/projects/spring-boot/leyou/ly-it
+ em/ly-item-interface
+Created-By: Maven Integration for Eclipse
+
